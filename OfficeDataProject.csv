@@ -1,4 +1,4 @@
-employee_id,employee_name,department,state,salary,age,bonus,,,,
+emp_id,employee_name,department,state,salary,age,bonus,,,,
 1000,Nitz Leif,Marketing,CA,6131,26,543,,,,
 1001,Melissia Dedman,Finance,AK,4027,43,1290,,,,employee_id
 1002,Rudolph Barringer,HR,LA,3122,43,1445,,,,employee_name
